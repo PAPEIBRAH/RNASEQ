@@ -97,6 +97,8 @@ regtools --version # Verification tout marche bien
 # Actuellement je suis entrain d'installer rmats qui doit marcher aussi sous linux.
 
 
+Aujourd'hui je modifie
+
 
 
 
